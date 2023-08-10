@@ -25,3 +25,11 @@ Dataset required to generate Insights<br>
 Metadata<br>
 Survey questions<br>
 
+## Power Bi Dashboard
+
+![dash1](https://github.com/DhanshriM24/CodeX_Energy_Drink_Market_Analysis/assets/91377756/abc60ae2-508c-43d1-b8ba-6fc9a65f95ca)
+![dash2](https://github.com/DhanshriM24/CodeX_Energy_Drink_Market_Analysis/assets/91377756/674d1ef1-ead9-4402-8dde-be5147cf1e01)
+![dash3](https://github.com/DhanshriM24/CodeX_Energy_Drink_Market_Analysis/assets/91377756/860cbe8e-90c1-4cb6-a290-fa8184bfed7c)
+![dash4](https://github.com/DhanshriM24/CodeX_Energy_Drink_Market_Analysis/assets/91377756/3b16982a-65de-4f61-8968-36d989e93acd)
+![dash5](https://github.com/DhanshriM24/CodeX_Energy_Drink_Market_Analysis/assets/91377756/e26bf655-3ff9-4f4d-aa63-91c8fe1e2c7d)
+![dash6](https://github.com/DhanshriM24/CodeX_Energy_Drink_Market_Analysis/assets/91377756/094129a4-513e-4653-b0d9-efe850976c64)
