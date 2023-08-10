@@ -3,7 +3,7 @@
 This is my submission of Code Basics Challenge 6
 #codebasicsresumeprojectchallenge
 
-Link to the [Challenge](https://codebasics.io/event/codebasics-resume-project-challenge)
+Link to the [Challenge]([https://codebasics.io/event/codebasics-resume-project-challenge](https://codebasics.io/challenge/codebasics-resume-project-challenge))
 
 ## Introduction:
 CodeX is a German beverage company aiming to make its mark in the Indian market. Recently, they launched their energy drink in 10 cities across India🌍
